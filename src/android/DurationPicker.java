@@ -1,22 +1,10 @@
 package com.warrenjoe92.cordova;
 
-import android.app.Activity;
-import android.app.DialogFragment;
-
-import android.app.TimePickerDialog;
-import android.content.Intent;
-import android.net.Uri;
 import android.util.Log;
-import android.provider.OpenableColumns;
-import android.database.Cursor;
-import android.content.Context;
-import android.widget.TimePicker;
 
 import org.apache.cordova.CordovaArgs;
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
-import org.apache.cordova.PluginResult;
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 

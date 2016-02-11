@@ -1,16 +1,13 @@
+
 package com.warrenjoe92.cordova;
 
-import android.app.Activity;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.app.TimePickerDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.text.format.DateFormat;
-import android.util.Log;
 import android.widget.TimePicker;
-
-import java.util.Calendar;
 
 /**
  * Created by warrenjoe92 on 9/02/2016.
