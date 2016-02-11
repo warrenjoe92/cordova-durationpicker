@@ -2,7 +2,7 @@
 <plugin
     xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.warrenjoe92.cordova.DurationPicker" 
+    id="com.warrenjoe92.cordova.DurationPicker"
     version="0.0.0">
 
     <engines>
@@ -24,6 +24,7 @@
         </config-file>
 
         <source-file src="src/android/DurationPicker.java" target-dir="src/com/warrenjoe92/cordova"/>
+        <source-file src="src/android/DurationPickerFragment.java" target-dir="src/com/warrenjoe92/cordova"/>
 
     </platform>
 
